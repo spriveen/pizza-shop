@@ -216,7 +216,7 @@ export default function Footer() {
                 </div>
                 <div className='text-left'>
                   <p className='text-gray-900 font-medium text-sm md:text-base clamp'>
-                    hello@sahand.com
+                    dominospizza.com
                   </p>
                   <p className='text-gray-500 text-xs md:text-sm'>
                     Customer Support
@@ -290,7 +290,7 @@ export default function Footer() {
         <div className='container mx-auto px-4 py-4 md:py-6'>
           <div className='flex flex-col md:flex-row justify-between items-center space-y-3 md:space-y-0'>
             <div className='flex flex-col sm:flex-row items-center space-y-2 sm:space-y-0 sm:space-x-4 md:space-x-6 text-gray-500 text-xs md:text-sm text-center'>
-              <p>&copy; 2024 SahandPizza. All rights reserved.</p>
+              <p>&copy; 2025 Dominos Pizza. All rights reserved.</p>
               <div className='flex flex-wrap justify-center space-x-3 md:space-x-4'>
                 <Link
                   href='/privacy'
@@ -314,7 +314,7 @@ export default function Footer() {
             </div>
             <div className='flex items-center space-x-2 text-gray-500 text-xs md:text-sm'>
               <Heart className='h-4 w-4 md:h-5 md:w-5 text-red-500' />
-              <span>Made with love in New York</span>
+              <span>Developed By Riveen_Official</span>
             </div>
           </div>
         </div>
