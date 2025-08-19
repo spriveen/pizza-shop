@@ -334,7 +334,8 @@ export default function ProductDetailPage({
 
             <ProductCatalog
               title=''
-              products={relatedProducts as unknown as IProductsEntity[]}
+               products={relatedProducts as unknown as IProductsEntity[]}
+              // products={relatedProducts as unknown as IProductsEntity[]}
             />
 
             <div className='text-center mt-6 xs:mt-8 sm:mt-12'>
@@ -343,7 +344,7 @@ export default function ProductDetailPage({
               </p>
               <div className='inline-flex items-center px-3 xs:px-4 sm:px-6 py-2 xs:py-2.5 sm:py-3 rounded-full bg-gradient-to-r from-orange-100 to-red-100 dark:from-orange-900/30 dark:to-red-900/30 border border-orange-200 dark:border-orange-800'>
                 <span className='text-xs sm:text-sm font-semibold text-orange-800 dark:text-orange-200 text-center'>
-                  🔥 Limited Time: Buy 2 Get 1 Free on Select Pizzas!
+                  🔥 Limited Time: Buy 2 Get 1 Free on Select Pizza!
                 </span>
               </div>
             </div>
