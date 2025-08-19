@@ -136,7 +136,7 @@ export default function Navbar() {
           <div className='flex items-center'>
             <Link href='/' className='flex-shrink-0 group'>
               <span className='text-3xl font-black bg-gradient-to-r from-red-600 via-orange-500 to-yellow-500 bg-clip-text text-transparent hover:from-red-700 hover:via-orange-600 hover:to-yellow-600 transition-all duration-300 tracking-tight'>
-                🍕 SahandPizza
+                🍕 Dominos Pizza
               </span>
             </Link>
           </div>

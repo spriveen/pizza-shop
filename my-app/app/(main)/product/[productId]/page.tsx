@@ -212,7 +212,7 @@ export default function ProductDetailPage({
               <div className='px-1'>
                 <div className='inline-flex items-center px-2.5 sm:px-3 md:px-4 py-1 sm:py-1.5 md:py-2 rounded-full bg-orange-100 dark:bg-orange-900/30 border border-orange-200 dark:border-orange-800 mb-2 sm:mb-3 md:mb-4'>
                   <span className='text-xs sm:text-sm font-semibold text-orange-800 dark:text-orange-200'>
-                    🍕 SahandPizza Special
+                    🍕 Dominos Pizza
                   </span>
                 </div>
 
