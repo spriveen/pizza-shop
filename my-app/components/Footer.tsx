@@ -71,7 +71,7 @@ export default function Footer() {
               <div>
                 <h2 className='text-xl md:text-2xl font-black'>
                   <span className='bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 bg-clip-text text-transparent'>
-                    SahandPizza
+                    Dominos Pizza
                   </span>
                 </h2>
                 <p className='text-xs md:text-sm text-gray-500'>
